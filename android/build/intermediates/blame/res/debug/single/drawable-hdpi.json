@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/sheldon_knuth/Downloads/Torpedobeat Revolution/android/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/sheldon_knuth/Downloads/Torpedobeat Revolution/android/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sheldon_knuth/Downloads/Torpedobeat Revolution/android/build/intermediates/res/merged/debug/drawable-hdpi/btnscore.png",
+        "source": "/home/sheldon_knuth/Downloads/Torpedobeat Revolution/android/res/drawable-hdpi/btnscore.png"
+    },
+    {
+        "merged": "/home/sheldon_knuth/Downloads/Torpedobeat Revolution/android/build/intermediates/res/merged/debug/drawable-hdpi/gamebg.png",
+        "source": "/home/sheldon_knuth/Downloads/Torpedobeat Revolution/android/res/drawable-hdpi/gamebg.png"
+    },
+    {
+        "merged": "/home/sheldon_knuth/Downloads/Torpedobeat Revolution/android/build/intermediates/res/merged/debug/drawable-hdpi/gamebg_blank.png",
+        "source": "/home/sheldon_knuth/Downloads/Torpedobeat Revolution/android/res/drawable-hdpi/gamebg_blank.png"
+    },
+    {
+        "merged": "/home/sheldon_knuth/Downloads/Torpedobeat Revolution/android/build/intermediates/res/merged/debug/drawable-hdpi/btnplay.png",
+        "source": "/home/sheldon_knuth/Downloads/Torpedobeat Revolution/android/res/drawable-hdpi/btnplay.png"
+    }
+]

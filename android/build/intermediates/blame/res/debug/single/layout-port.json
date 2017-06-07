@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/sheldon_knuth/Downloads/Torpedobeat Revolution/android/build/intermediates/res/merged/debug/layout-port/activity_main.xml",
+        "source": "/home/sheldon_knuth/Downloads/Torpedobeat Revolution/android/res/layout-port/activity_main.xml"
+    },
+    {
+        "merged": "/home/sheldon_knuth/Downloads/Torpedobeat Revolution/android/build/intermediates/res/merged/debug/layout-port/activity_score.xml",
+        "source": "/home/sheldon_knuth/Downloads/Torpedobeat Revolution/android/res/layout-port/activity_score.xml"
+    }
+]

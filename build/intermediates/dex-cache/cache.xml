@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\WJChen\Desktop\Torpedobeat Revolution\android\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6364658884fa74adcc992dfdb12e36207833622b">
+        <dex dex="C:\Users\WJChen\Desktop\Torpedobeat Revolution\android\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3f039d30184a969f5729ec05b16ecb66f8301392\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WJChen\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.9.6\c249ef4060a4fada952f278455c8f7b9cba3c18a\gdx-box2d-1.9.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c249ef4060a4fada952f278455c8f7b9cba3c18a">
+        <dex dex="C:\Users\WJChen\Desktop\Torpedobeat Revolution\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-box2d-1.9.6_418069a891f1f0ba1cecaf75c2c48fd3e07615fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WJChen\Desktop\Torpedobeat Revolution\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\WJChen\Desktop\Torpedobeat Revolution\android\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.2.0_b9c5649f5195f349f8952c8b77118f1cfdd1252e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WJChen\Desktop\Torpedobeat Revolution\android\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d2e45cc4d5d01e79611cc927d633f586c58ca5ea">
+        <dex dex="C:\Users\WJChen\Desktop\Torpedobeat Revolution\android\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_bbfb52d1684c04a11507a320917b58be2204179e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WJChen\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.6\57c2831c870743712b808384187ea856e541878f\gdx-backend-android-1.9.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2831c870743712b808384187ea856e541878f">
+        <dex dex="C:\Users\WJChen\Desktop\Torpedobeat Revolution\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-backend-android-1.9.6_e9f275c81b73f793b7fc2c7d0cc10c280c873f50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WJChen\Desktop\Torpedobeat Revolution\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\WJChen\Desktop\Torpedobeat Revolution\android\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.2.0_20cefaf40d66fdf441b89807cc30b5da1e2a2c37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\WJChen\Desktop\Torpedobeat Revolution\android\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_83ce6eae95bf3baf27e38ee0ad7d478837aa2012\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WJChen\Desktop\Torpedobeat Revolution\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\WJChen\Desktop\Torpedobeat Revolution\android\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.2.0_262871db62001d1b8a3e0b171245ffdd4e1eaa65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WJChen\Desktop\Torpedobeat Revolution\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\WJChen\Desktop\Torpedobeat Revolution\android\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.2.0_129516d85d99cc26a08ad63f0273e282848463bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WJChen\Desktop\Torpedobeat Revolution\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\WJChen\Desktop\Torpedobeat Revolution\android\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.2.0_29aced82111dbdd44c05cd277d33e4f31ac8225f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WJChen\Desktop\Torpedobeat Revolution\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\WJChen\Desktop\Torpedobeat Revolution\android\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.2.0_f8a32ccc958420f1af820d2fab235475dca4f52f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WJChen\Desktop\Torpedobeat Revolution\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\WJChen\Desktop\Torpedobeat Revolution\android\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.2.0_6b19616f298e62c5487176cec09e8a567d8030ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WJChen\Desktop\Torpedobeat Revolution\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\WJChen\Desktop\Torpedobeat Revolution\android\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.2.0_ae81639ba2be5aa7700562a068c1196aa62251ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WJChen\Desktop\Torpedobeat Revolution\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\WJChen\Desktop\Torpedobeat Revolution\android\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.2.0_49b2c8944f36f517a23a3fafe91244fc920902a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WJChen\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.6\47d1e9b890e364ec28f128e9bb3b9a12a94c164\gdx-1.9.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="047d1e9b890e364ec28f128e9bb3b9a12a94c164">
+        <dex dex="C:\Users\WJChen\Desktop\Torpedobeat Revolution\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-1.9.6_7db2173238bc8fcd9f28c799900fcb923b91b5bc\classes.dex" />
+    </item>
+
+</items>

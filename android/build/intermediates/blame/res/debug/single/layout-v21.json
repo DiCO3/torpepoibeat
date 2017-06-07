@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/sheldon_knuth/Downloads/Torpedobeat Revolution/android/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/sheldon_knuth/.android/build-cache/ec15b7922207e469b20410148ef4fbdb66a6af4e/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/sheldon_knuth/Downloads/Torpedobeat Revolution/android/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/sheldon_knuth/.android/build-cache/ec15b7922207e469b20410148ef4fbdb66a6af4e/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/sheldon_knuth/Downloads/Torpedobeat Revolution/android/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/sheldon_knuth/.android/build-cache/ec15b7922207e469b20410148ef4fbdb66a6af4e/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/sheldon_knuth/Downloads/Torpedobeat Revolution/android/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/sheldon_knuth/.android/build-cache/ec15b7922207e469b20410148ef4fbdb66a6af4e/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

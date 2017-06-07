@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:srcCompat="@drawable/gamebg"
+        android:id="@+id/background"
+        android:layout_alignParentTop="true"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:text="Your Score :"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/yourScoreText"
+        android:layout_marginTop="183dp"
+        android:textAppearance="@style/TextAppearance.AppCompat"
+        android:fontFamily="sans-serif"
+        android:textSize="36sp"
+        android:textAllCaps="false"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:text="0"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/gameScore"
+        android:textAppearance="@style/TextAppearance.AppCompat"
+        android:fontFamily="sans-serif"
+        android:textSize="36sp"
+        android:textAllCaps="false"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:layout_below="@+id/yourScoreText"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:layout_marginTop="14dp"
+        android:id="@+id/nameEditText"
+        style="@android:style/Widget.Material.Light.Button"
+        android:hint="Your Name"
+        android:singleLine="true"
+        android:selectAllOnFocus="false"
+        android:layout_below="@+id/gameScore"
+        android:layout_centerHorizontal="true"
+        android:textSize="36sp"
+        android:textColor="@android:color/white"
+        android:textAlignment="center" />
+
+    <Button
+        android:text="Submut"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="35dp"
+        android:id="@+id/submitButton"
+        android:textSize="36sp"
+        android:layout_below="@+id/nameEditText"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>

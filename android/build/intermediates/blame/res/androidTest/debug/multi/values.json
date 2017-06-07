@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/sheldon_knuth/Downloads/Torpedobeat Revolution/android/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/home/sheldon_knuth/.android/build-cache/7b2f50f37ac0d47603e0401a1b8fcb424b8be675/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]
